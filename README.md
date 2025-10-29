@@ -1,6 +1,6 @@
 # 🏎️ F1 Fast Lap Classifier — Neural Network from Scratch
 
-**Author:** Hana Tharwat Othman Elzarka (ID 8159)  
+**Author:** Hana Tharwat Othman Elzarka 
 **Course:** Deep Learning Assignment  
 **Dataset:** FastF1 (F1 qualifying session data)
 
