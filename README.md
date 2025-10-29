@@ -33,7 +33,6 @@ This project uses the **FastF1** library to collect real F1 lap data and trains 
 ### 📊 Visualizations
 - **Lap Predictions Scatter:** shows lap times colored by true label, markers show predictions.  
   ![Lap Predictions Scatter](lap_predictions_scatter.png)
-
 - **Sorted Lap Times:** shows laps sorted by time with predicted probabilities overlayed.  
   ![Sorted Lap Predictions](lap_predictions_sorted.png) 
 
